@@ -1,40 +1,102 @@
-# willyterance
-# Bonjour, je suis WILLY TERANCE 👋
+# 👋 Willy Terance Louokdom  
+### Data Analyst | SQL • Python • Power BI • Geospatial Analytics  
 
-🎯 Objectif : décrocher un poste de **Data Analyst** au Québec / Canada.
-
-## À propos de moi
-- 📍 Localisation : Québec, Canada  
-- 📊 Intérêts : Analyse de données, SQL, visualisation, IA appliquée
-- ✅ Certifications : Microsoft **AI-900 Microsoft Azure Fundamentals**, Certificat **IBM Data Analyst Professional**
-- 🛠️ Outils : **Python, SQL, Excel, Power BI, Pandas, NumPy**
-
-
-## Compétences clés
-- **SQL** : requêtes, jointures, agrégations, sous-requêtes
-- **Python** : analyse (Pandas), nettoyage, scripts, automatisation
-- **Data Viz** : Power BI / Matplotlib / Seaborn / Folium
-- **Bases de données** : SQLite (et notions PostgreSQL/MySQL)
-- **IA (AI-900)** : concepts, NLP, vision, IA responsable
-
-## Projets (exemples)
-### 📌 1) Analyse géospatiale (Folium)
-- Cartes avec marqueurs + cartes choroplèthes
-- Objectif : visualiser des tendances par zone
-➡️ Repo : 
-
-### 📌 2) Analyse SQL sur base de données (SQLite)
-- Création de tables, requêtes d’analyse, statistiques descriptives
-➡️ Repo : 
-
-## Ce que je cherche
-- Un poste **Data Analyst / BI Analyst / Junior Analyst**
-- Environnement : santé (CISSS), finance, retail, services publics, tech
-
-## Me contacter
-- 📧 Email : 	wlouokdom@gmail.com
-- 💼 LinkedIn : www.linkedin.com/in/willy-louokdom-363732205
-- 🌐 Portfolio : 
+🎯 **Objectif :** Contribuer à une organisation en transformant les données en décisions stratégiques.
 
 ---
-⭐ N’hésite pas à parcourir mes projets et à me contacter !
+
+## 🚀 À propos de moi
+
+Je suis Data Analyst avec une expertise en **analyse de données, visualisation et modélisation SQL**.  
+Passionné par la transformation des données en insights exploitables, j’utilise Python et SQL pour produire des analyses claires, visuelles et orientées performance.
+
+📍 Basé au Québec, Canada  
+📊 Intérêt particulier pour les données publiques, la santé, la finance et l’analyse territoriale  
+📈 Orienté résultats, structuré et rigoureux  
+
+---
+
+## 🎓 Certifications
+
+- ✅ **Microsoft AI-900 – Azure AI Fundamentals**
+- ✅ **IBM Data Analyst Professional Certificate**
+- 🔄 Formation continue en visualisation avancée et bases de données
+
+---
+
+## 🛠️ Stack Technique
+
+**Langages & Analyse**
+- Python (Pandas, NumPy)
+- SQL (Jointures, Agrégations, Sous-requêtes, Analyse multi-tables)
+
+**Visualisation**
+- Power BI
+- Matplotlib / Seaborn
+- Folium (Cartes interactives & choroplèthes)
+
+**Bases de données**
+- SQLite
+- Notions PostgreSQL & MySQL
+
+**Méthodologie**
+- Nettoyage & transformation des données
+- Analyse exploratoire (EDA)
+- Storytelling avec les données
+- Visualisation géospatiale
+
+---
+
+## 📂 Projets Sélectionnés
+
+### 📊 Analyse Géospatiale – Chicago Crime Data
+- Agrégation SQL des incidents
+- Nettoyage et transformation avec Pandas
+- Création de cartes choroplèthes interactives (Folium)
+- Identification des zones à forte concentration
+
+➡️ Repo : **
+
+---
+
+### 🗄️ Analyse SQL – Base de données SQLite
+- Création et structuration de tables
+- Requêtes analytiques avancées
+- Statistiques descriptives et indicateurs clés
+
+➡️ Repo : *(ajoute le lien ici)*
+
+---
+
+## 💡 Ce que j’apporte à une organisation
+
+✔️ Capacité à transformer des données brutes en indicateurs exploitables  
+✔️ Analyse orientée décision  
+✔️ Visualisations claires pour support stratégique  
+✔️ Compréhension des concepts IA et automatisation  
+
+---
+
+## 🎯 Poste Recherché
+
+- Data Analyst  
+- BI Analyst  
+- Junior Data Analyst  
+
+Secteurs ciblés :  
+🏥 Santé   
+💰 Finance  
+🏢 Services publics  
+🛍️ Retail  
+💻 Tech  
+
+---
+
+## 📬 Me contacter
+
+📧 Email : wlouokdom@gmail.com  
+💼 LinkedIn : www.linkedin.com/in/willy-louokdom-363732205  
+
+---
+
+⭐ Toujours ouvert aux opportunités, collaborations et projets data stimulants.
