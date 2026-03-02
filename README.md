@@ -6,9 +6,9 @@
 ## À propos de moi
 - 📍 Localisation : Québec, Canada  
 - 📊 Intérêts : Analyse de données, SQL, visualisation, IA appliquée
-- ✅ Certification : Microsoft **AI-900**
+- ✅ Certifications : Microsoft **AI-900 Microsoft Azure Fundamentals**, Certificat **IBM Data Analyst Professional**
 - 🛠️ Outils : **Python, SQL, Excel, Power BI, Pandas, NumPy**
-- 🌍 Bonus : Visualisation géospatiale (Folium, cartes choroplèthes)
+
 
 ## Compétences clés
 - **SQL** : requêtes, jointures, agrégations, sous-requêtes
@@ -25,7 +25,7 @@
 
 ### 📌 2) Analyse SQL sur base de données (SQLite)
 - Création de tables, requêtes d’analyse, statistiques descriptives
-➡️ Repo : *(ajoute ici le lien)*
+➡️ Repo : 
 
 ## Ce que je cherche
 - Un poste **Data Analyst / BI Analyst / Junior Analyst**
